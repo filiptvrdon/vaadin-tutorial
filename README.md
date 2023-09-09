@@ -1,1 +1,1 @@
-# personal-agenda-manager
+# Vaadin Tutorial
